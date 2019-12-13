@@ -16,8 +16,10 @@
             "role": "Backend Developer"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "bin": [
+        "bin/16/wkhtmltoimage-bionic-amd64",
+        "bin/16/wkhtmltopdf-bionic-amd64",
         "bin/18/wkhtmltoimage-bionic-amd64",
         "bin/18/wkhtmltopdf-bionic-amd64"
     ],
