@@ -18,10 +18,10 @@
     ],
     "minimum-stability": "dev",
     "bin": [
-        "bin/16/wkhtmltoimage-amd64",
-        "bin/16/wkhtmltopdf-amd64",
-        "bin/18/wkhtmltoimage-amd64",
-        "bin/18/wkhtmltopdf-amd64"
+        "bin/wkhtmltoimage-amd64-16",
+        "bin/wkhtmltopdf-amd64-16",
+        "bin/wkhtmltoimage-amd64-18",
+        "bin/wkhtmltopdf-amd64-18"
     ],
     "replace": {
         "h4cc/wkhtmltopdf-i386": "0.12.4",
