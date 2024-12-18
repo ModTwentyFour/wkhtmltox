@@ -21,7 +21,11 @@
         "bin/wkhtmltoimage-amd64-16",
         "bin/wkhtmltopdf-amd64-16",
         "bin/wkhtmltoimage-amd64-18",
-        "bin/wkhtmltopdf-amd64-18"
+        "bin/wkhtmltopdf-amd64-18",
+        "bin/wkhtmltoimage-amd64-20",
+        "bin/wkhtmltopdf-amd64-20",
+        "bin/wkhtmltoimage-amd64-22",
+        "bin/wkhtmltopdf-amd64-22"
     ],
     "replace": {
         "h4cc/wkhtmltopdf-i386": "0.12.4",
